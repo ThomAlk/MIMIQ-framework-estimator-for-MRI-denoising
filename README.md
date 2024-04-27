@@ -1,4 +1,4 @@
-# Image Filtering Project
+# MIMIQ Framework protocol estimator for image denoising
 
 This project applies various filters to images for image processing tasks.
 
